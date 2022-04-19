@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AntoMes
-- 👀 I’m interested in learning about programming, but mostly front-end related stuff.
+- 👀 I’m interested in learning about programming, but mostly front-end related stuff for now.
 - 🌱 I’m currently learning pretty much everything I can, taking Harvard's CS50 course and having a blast!
 
 <!---
